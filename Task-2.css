@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    width: 100%;
+    position: fixed;
+   
+}
+.header{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    gap: 7%;
+    background-color: rgb(1, 2, 71);
+    padding: 2%;
+}
+#pic1{
+    height: 10%;
+    width: 4%;
+    border: 2px black solid;
+    border-radius: 10px;
+    margin-left:2%;
+    padding: 0;
+    
+}
+#verticalhr{
+    height: 7px;
+    background-color: rgb(5, 61, 247);
+
+}
+.an{
+    text-decoration: none;
+    color: white;
+}
+.headitem{
+    font-size: 150%;
+}
+#buton{
+    display: flex;
+    width: 100%;
+}
+#button1{
+    width: 105%;
+    height: 72%;
+    border-radius: 15px;
+}
+.bodybutton1{
+    display: flex;
+}
+.body{
+    width: 100%;
+    height: 100%;
+    background-color:rgb(4, 2, 77) ;
+}
+#bodypara1{
+    color: aliceblue;
+    margin-left: 35%;
+    padding-top: 5%;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+#bodypara2{
+    margin-left: 40%;
+    color: aliceblue;
+    font-size: 150%;
+    font-weight: 200;
+}
+.bodybotton{
+    width: 8%;
+    height: 20%;
+
+}
+.bodybutton1{
+    display: flex;
+    gap: 1%;
+}
+.body1{
+    height: 42vh;
+    width: 100%;
+}
+
+#button2{
+    height:40px;
+    width: 10%;
+    border-radius: 10px;
+    margin-left: 40%;
+    background-color: rgb(12, 139, 243);
+}
+#button3{
+    height: 40px;
+    width: 10%;
+    border-radius: 10px;
+    background: transparent;
+    border: 2px white solid;
+    color: aliceblue;
+}
+.atbutton{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    color: aliceblue;
+}
+.footer{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(231, 237, 235);
+}
+#foot1{
+    font-size: 25px;
+    padding: 1%;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.footm1{
+    height: 5%;
+    width: 25%;
+    margin-left:7%;
+    text-align: center;
+}
+#footbody{
+   background-color: rgb(24, 159, 242);
+    padding: 7%;
+}
+#footpara{
+    font-size: 18px;
+    margin-left:6%;
+    padding-top: 2%;
+
+}
+#footparabuttom{
+    font-size: 10px;
+}
+.footparam{
+    background-color: rgb(253, 253, 252);
+    height:55%;
+    padding:5%;
+    padding-top: 2%;
+
+}
+.footbutom{
+    display: flex;
+    gap: 5%;
+    margin-top: 2%;
+}
+.body{
+
+    height: 85vh;
+}
+.footm2{
+width: 25%;
+text-align: center;
+}
+#footbody2{
+    background-color: rgb(6, 245, 90);
+    padding: 7%;
+}
+.footm3{
+    width: 25%;
+    text-align: center;
+   
+    
+}
+#footbody3{
+    background-color: rgb(245, 5, 5);
+    padding: 8%;
+}
+.footer{
+    height: 38%;
+}
+.allrightreserved{
+    color: rgb(141, 139, 139);
+    font-size: 30px;
+    margin-left: 36%;
+    padding-top: 15px;
+}
+.allright{
+    font-size: 30px;
+}
+-

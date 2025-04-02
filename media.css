@@ -1,0 +1,175 @@
+@media(max-width:700px)
+{
+    .header{
+        width: 300%;
+        height: 20%;
+        display: flex;
+        gap: 2%;
+        background-color: rgb(1, 2, 71);
+        padding: 7%;
+    }
+    #pic1{
+        height: 2%;
+        width: 5%;
+        border: 2px black solid;
+        border-radius: 10px;
+        margin-left:2%;
+        padding: 0;
+        
+    }
+    #button1{
+        width: 90%;
+        height: 70%;
+        border-radius: 15px;
+    }
+    #verticalhr{
+        height: 7px;
+        width: 300%;
+        background-color: rgb(3, 53, 253);
+    
+    }
+    .body{
+        width: 300%;
+        height: 100vh;
+        background-color:rgb(4, 2, 77) ;
+    }
+    .body1{
+        height: 50vh;
+        width: 100%;
+    }
+    #bodypara1{
+        color: aliceblue;
+        margin-left: 25%;
+        padding-top: 5%;
+        word-spacing: 10px;
+        letter-spacing: 5px;
+    }
+    #bodypara2{
+        margin-left: 30%;
+        color: aliceblue;
+        font-size: 150%;
+        font-weight: 200;
+    }
+    .bodybotton{
+        width: 8%;
+        height: 20%;
+    
+    }
+    
+    #button2{
+        height: 40px;
+        width: 10%;
+        border-radius: 10px;
+        margin-left: 40%;
+        background-color: rgb(14, 128, 222);
+        text-align: center;
+    }
+    #button3{
+        height: 40px;
+        width: 10%;
+        border-radius: 10px;
+        background: transparent;
+        border: 2px white solid;
+        color: aliceblue;
+    }
+    .atbutton{
+        margin-top: 3%;
+        margin-bottom: 5%;
+        color: aliceblue;
+    }
+    .footer{
+        width: 100%;
+        height: 60%;
+        background-color: rgb(251, 177, 4);
+        /* display: flex;
+        flex-wrap: wrap; */
+    }
+    #foot1{
+        font-size: 25px;
+        padding: 10px;
+        text-align: center;
+        letter-spacing: 2px;
+    }
+    .footm1{
+        height: 60%;
+        width: 30%;
+        margin-left: 3%;
+        text-align: center;
+
+    }
+    #footbody{
+       background-color: rgb(24, 159, 242);
+        padding: 30px;
+    }
+    #footpara{
+        font-size: 15px;
+        margin-left:6%;
+        padding-top: 2%;
+    
+    }
+    #footbody{
+        background-color: rgb(24, 159, 242);
+         padding: 30px;
+     }
+     #footpara{
+         font-size: 15px;
+         margin-left:6%;
+         padding-top: 2%;
+     
+     }
+     #footparabuttom{
+         font-size: 10px;
+     }
+     .footparam{
+         background-color: rgb(244, 244, 243);
+         height: 60px;
+         padding: 25px;
+         padding-top: 5px;
+         font-size: 15px;
+     
+     }
+     .fp{
+        font-size: 15px;
+     }
+     .footbutom{
+         display: flex;
+         gap: 2%;
+         margin-top: 30px;
+     }
+     .body{
+     
+         height: 82vh;
+     }
+     .footm2{
+     width: 30%;
+     height: 50%;
+     text-align: center;
+     }
+     #footbody2{
+         background-color: rgb(6, 245, 90);
+         padding: 30px;
+     }
+     .footm3{
+         width: 30%;
+         height: 50%;
+         text-align: center;
+        
+         
+     }
+     
+.allrightreserved{
+    margin-left: 20%;
+
+}
+.allreserv{
+    height: 230%;
+    width: 100%;
+    background-color: rgb(123, 234, 236);
+}
+.allright{
+    margin-top: 145% ;
+    color: black;
+    font-size: 35px;
+}
+
+ 
